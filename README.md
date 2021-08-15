@@ -89,5 +89,6 @@ de forma central, de la siguiente manera:
 10.- A continuación se prueba el funcionamiento de manera nativa, de tal forma que se general el apk, se emulación de la aplicación o la instalación en un 
 dispositivo para comprobar el correcto funcionamiento.
 
-(No permite aderir capturas de pantalla)
+![image](https://user-images.githubusercontent.com/66144899/129464058-2a0b1dd6-71bb-4ef5-87be-f8d13a8b5291.png)
+
 
